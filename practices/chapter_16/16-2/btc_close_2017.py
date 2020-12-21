@@ -6,7 +6,7 @@ json_url = "https://raw.githubusercontent.com/muxuezi/btc/master/btc_close_2017.
 response = urlopen(json_url)
 # 读取数据
 req = response.read()
-# 将数据写入文件
+# 将数据写入文件d
 with open('btc_close_2017.json', 'wb') as f:
     f.write(req)
 
