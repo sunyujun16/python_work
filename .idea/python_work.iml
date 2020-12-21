@@ -3,12 +3,9 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/practices/chapter_9" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/practices" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/practices/chapter_11" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/practices/chapter_10" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/practices/chapter_2" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/practices/chapter_12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practices/chapter_15" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practices/chapter_15/random_walk" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practices/chapter_15/dice" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.6 (pythonProject)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
