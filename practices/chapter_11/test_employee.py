@@ -29,4 +29,4 @@ class TestEmployee(unittest.TestCase):
 
 unittest.main()
 
-# OK了,要注意运行方式选择不同会导致不出测试报告的问题 !!!!!!!
+# OK了,要注意运行方式选择不同会导致不出测试报告的问题 !!!!!!!要在菜单栏的Run下面手动选择!!!!
